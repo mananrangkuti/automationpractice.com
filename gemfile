@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+
+gem "rspec"
+gem 'cucumber', '~>3.1.2'
+gem "selenium-webdriver"
+gem "rubygems-update"
+gem "test/unit"
